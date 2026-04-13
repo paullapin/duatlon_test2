@@ -1,0 +1,254 @@
+#: locale=ru
+
+## E-обучения
+
+### Название результата
+score1.label = Счет 1
+
+### Экран «время вышло»
+quizTimeout_096CEB9B_1F35_3A13_4193_BAF1D3F224A2.title = - TIMEOUT -
+quizTimeout_096CEB9B_1F35_3A13_4193_BAF1D3F224A2.repeat = Repeat
+quizTimeout_096CEB9B_1F35_3A13_4193_BAF1D3F224A2.score = View Score
+
+### Экран вопросы
+quizQuestion_096CEB9C_1F35_3A15_41BD_83CCD84D4C00.ok = OK
+
+### Экран отчета
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.title = - SCORE -
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.completion = Completed
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.questionsCorrect = Correct
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.downloadCSV = Download .csv
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.questionsIncorrect = Incorrect
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.items = Items Found
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.questions = Questions
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.repeat = Repeat
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.submitToLMS = Submit
+quizScore_09728B9C_1F35_3A15_41B8_FBB324724EE5.elapsedTime = Time
+
+## VR Menu
+
+### Text
+MenuItem_8F849E61_A9DE_12F0_41E1_A92B0C2AD7E0.label = IMG_20250813_155342_00_253
+MenuItem_8F84BE61_A9DE_12F0_41A8_0738714D763C.label = IMG_20250813_164500_00_254
+MenuItem_8F848E61_A9DE_12F0_41AF_1F9735DDFA77.label = IMG_20250813_175901_00_264
+Menu_0759B70A_1FD2_9838_41AB_3C43502A7D27.label = Media
+MenuItem_65EBC31A_7595_3F84_41BB_F3B7AF9F95B4.label = duatlon_presentation
+
+## Действие
+
+### PDF
+PopupPDFBehaviour_79F32177_6D94_8E84_41B6_3D44AF8A5C4D.url = files/%D0%9F%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%94%D1%8E%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%90%D0%92%D0%98%D0%A2%D0%9E)%2022.04.25_ru.pdf
+PopupPDFBehaviour_64DFB3AE_780A_8B32_41D2_A22F5166A070.url = files/%D0%9F%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%94%D1%8E%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%90%D0%92%D0%98%D0%A2%D0%9E)%2022.04.25_ru.pdf
+
+### URL
+LinkBehaviour_BEC3ADB7_AE4E_760B_41B6_7947B25BAC03.source = https://lapin-lab.ru/
+LinkBehaviour_BCB7997B_AE4B_BE04_41E0_FBA30EF587EC.source = https://lapin-lab.ru/
+PopupWebFrameBehaviour_0C886E88_13D5_37A2_41AA_34D8A9D4AA5E.url = https://rutube.ru/play/embed/24ed9cd50777685ccf7df5c6e6c1d743/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7292.409866857258!2d140.34099036455137!3d49.194069994071455!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1749018751338!5m2!1sru!2sru
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7292.409866857258!2d140.34099036455137!3d49.194069994071455!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1749018751338!5m2!1sru!2sru
+
+## Медиа
+
+### Заголовок
+photo_165AAA8A_186F_FD65_41B5_7C1295E63DF9.label = 001_Dyuanka_Top_view1_low_ver5
+photo_165AAA8A_186F_FD65_41B5_7C1295E63DF9.label = 001_Dyuanka_Top_view1_low_ver5
+photo_084C393B_1871_3F9A_418C_739FABC675DB.label = 002_Dyuanka_Top_view2_low_ver4
+photo_084C393B_1871_3F9A_418C_739FABC675DB.label = 002_Dyuanka_Top_view2_low_ver4
+photo_175B9CAA_1871_36A5_41A3_10ED66D4F7A3.label = 003_Dyuanka_Top_view3_low_ver4
+photo_175B9CAA_1871_36A5_41A3_10ED66D4F7A3.label = 003_Dyuanka_Top_view3_low_ver4
+photo_175AE20F_1871_0D7B_41B5_75E644B68472.label = 004_Dyuanka_Top_view4_low_ver4
+photo_175AE20F_1871_0D7B_41B5_75E644B68472.label = 004_Dyuanka_Top_view4_low_ver4
+photo_175AE5B0_1871_16A5_41B4_7B575A924CD2.label = 005_Dyuanka_Top_view4_low_ver5
+photo_175AE5B0_1871_16A5_41B4_7B575A924CD2.label = 005_Dyuanka_Top_view4_low_ver5
+photo_1DCBF03F_0CBF_F8B0_419F_7DD0693E3AF4.label = Dyuanka_Houses_Type1_view1_ver1_low
+photo_1DCBF03F_0CBF_F8B0_419F_7DD0693E3AF4.label = Dyuanka_Houses_Type1_view1_ver1_low
+photo_1DCBA1D4_0CBF_FBF7_4194_BB6A501A0600.label = Dyuanka_Houses_Type1_view1_ver1_low_winter
+photo_1DCBA1D4_0CBF_FBF7_4194_BB6A501A0600.label = Dyuanka_Houses_Type1_view1_ver1_low_winter
+photo_1DCBA362_0CBF_F8D0_41A8_3DEC6F6BB395.label = Dyuanka_Houses_Type1_view2_ver1_low
+photo_1DCBA362_0CBF_F8D0_41A8_3DEC6F6BB395.label = Dyuanka_Houses_Type1_view2_ver1_low
+photo_1DCB953A_0CBF_F8B3_4197_6620F38A1B3A.label = Dyuanka_Houses_Type2_view1_ver1_low
+photo_1DCB953A_0CBF_F8B3_4197_6620F38A1B3A.label = Dyuanka_Houses_Type2_view1_ver1_low
+photo_1DCBD6FD_0CBF_F9B0_41A6_76725ADE60CC.label = Dyuanka_Houses_Type3_view1_ver1_low
+photo_1DCBD6FD_0CBF_F9B0_41A6_76725ADE60CC.label = Dyuanka_Houses_Type3_view1_ver1_low
+photo_1DCB887E_0CBF_E8B3_4184_AE80DAA7E540.label = Dyuanka_Houses_Type3_view2_ver1_low
+photo_1DCB887E_0CBF_E8B3_4184_AE80DAA7E540.label = Dyuanka_Houses_Type3_view2_ver1_low
+photo_1DCBBA39_0CBF_E8B1_4198_85D4DA65CE2B.label = Dyuanka_Houses_Type4_view1_ver1_low
+photo_1DCBBA39_0CBF_E8B1_4198_85D4DA65CE2B.label = Dyuanka_Houses_Type4_view1_ver1_low
+photo_1DCB9C10_0CBF_E870_41A0_D59CEE842E82.label = Dyuanka_Houses_Type4_view1_ver1_low_winter
+photo_1DCB9C10_0CBF_E870_41A0_D59CEE842E82.label = Dyuanka_Houses_Type4_view1_ver1_low_winter
+photo_1DCBCDD1_0CBF_EBF1_4174_31F8D1DD9BF9.label = Dyuanka_KIDZ_PLAYGROUND_low
+photo_1DCBCDD1_0CBF_EBF1_4174_31F8D1DD9BF9.label = Dyuanka_KIDZ_PLAYGROUND_low
+photo_1DCB8F94_0CBF_E870_4190_5347D3783462.label = Dyuanka_MARINE_low
+photo_1DCB8F94_0CBF_E870_4190_5347D3783462.label = Dyuanka_MARINE_low
+photo_1DCA4122_0CBE_1850_418C_D27F32EB729D.label = Dyuanka_PARKING_low
+photo_1DCA4122_0CBE_1850_418C_D27F32EB729D.label = Dyuanka_PARKING_low
+photo_1DCA635C_0CBE_18F0_41A3_70F7B3A2F6CB.label = Dyuanka_RESTAURANT_low
+photo_1DCA635C_0CBE_18F0_41A3_70F7B3A2F6CB.label = Dyuanka_RESTAURANT_low
+photo_1DCA4508_0CBE_185F_4189_BE31F34DBA7A.label = Dyuanka_SCENE_low
+photo_1DCA4508_0CBE_185F_4189_BE31F34DBA7A.label = Dyuanka_SCENE_low
+photo_1DCA86DF_0CBE_19F1_4194_9FB7E0CE0BE1.label = Dyuanka_SPA_low
+photo_1DCA86DF_0CBE_19F1_4194_9FB7E0CE0BE1.label = Dyuanka_SPA_low
+photo_1DCA588D_0CBE_2850_41A4_B9F605B1341F.label = Dyuanka_TEA_HOUSE_low
+photo_1DCA588D_0CBE_2850_41A4_B9F605B1341F.label = Dyuanka_TEA_HOUSE_low
+photo_1DCA8A50_0CBE_28F0_41A9_3A1182BD6692.label = Dyuanka_TEA_HOUSE_low_winter
+photo_1DCA8A50_0CBE_28F0_41A9_3A1182BD6692.label = Dyuanka_TEA_HOUSE_low_winter
+panorama_8CEA3817_A9EA_1E50_41DA_C42225AD3C50.label = IMG_20250813_155342_00_253
+panorama_8A85C206_A9EA_7230_41D8_A4A9ECA1D163.label = IMG_20250813_164500_00_254
+panorama_8A89DB98_A9EA_7250_41A6_7D534F2A2055.label = IMG_20250813_175901_00_264
+model_92EC2507_8797_B469_41B7_E556D9A710D3.label = duatlon_presentation
+album_B193B026_F791_6CAC_41CF_FA0FE6CFD224.label = Фото альбом DYUANKA
+
+### Изображение
+imlevel_91A35EC7_87B2_F5E8_41D9_7E0389968953.url = media/zoomImage_1AEA3CC3_0CDA_69D1_4196_F1EACFB9A7C5_ru_0_0.jpg
+imlevel_91A49EC7_87B2_F5E8_41C0_E22ECAE88579.url = media/zoomImage_1AEA3CC3_0CDA_69D1_4196_F1EACFB9A7C5_ru_0_1.jpg
+imlevel_91A4FEC7_87B2_F5E8_41DE_8E4F447AEAFD.url = media/zoomImage_1AEA3CC3_0CDA_69D1_4196_F1EACFB9A7C5_ru_0_2.jpg
+imlevel_91A4CEC7_87B2_F5E8_41CF_BBFC9BB47F75.url = media/zoomImage_1AEA3CC3_0CDA_69D1_4196_F1EACFB9A7C5_ru_0_3.jpg
+imlevel_93614B47_87B2_DCE8_41B0_DDAB4B50B274.url = media/zoomImage_2389F6E5_13A1_756B_4195_1541455C4058_ru_0_0.jpg
+imlevel_9362AB47_87B2_DCE8_41DC_0536BDA6060B.url = media/zoomImage_2389F6E5_13A1_756B_4195_1541455C4058_ru_0_1.jpg
+imlevel_93629B47_87B2_DCE8_41C8_9B61EE1DDD38.url = media/zoomImage_2389F6E5_13A1_756B_4195_1541455C4058_ru_0_2.jpg
+imlevel_93628B47_87B2_DCE8_41DE_AEB7B5B3465B.url = media/zoomImage_2389F6E5_13A1_756B_4195_1541455C4058_ru_0_3.jpg
+imlevel_93401826_87B2_BCAB_41BD_EE041BBAAD2F.url = media/zoomImage_34B07B00_1360_9CA9_41AD_61598593F0BC_ru_0_0.jpg
+imlevel_93402826_87B2_BCAB_41D9_8BDF16962C10.url = media/zoomImage_34B07B00_1360_9CA9_41AD_61598593F0BC_ru_0_1.jpg
+imlevel_9341D826_87B2_BCAB_41C3_9C33C81E31CB.url = media/zoomImage_34B07B00_1360_9CA9_41AD_61598593F0BC_ru_0_2.jpg
+imlevel_9341F826_87B2_BCAB_41DC_E4AA6DA24968.url = media/zoomImage_34B07B00_1360_9CA9_41AD_61598593F0BC_ru_0_3.jpg
+imlevel_93419826_87B2_BCAB_41C9_DCFE324E64A5.url = media/zoomImage_34B07B00_1360_9CA9_41AD_61598593F0BC_ru_0_4.jpg
+imlevel_937A638C_87B2_AC78_41B1_BC78ADB95332.url = media/zoomImage_35AB3883_136F_7DAF_41A8_8B6F24532DA1_ru_0_0.jpg
+imlevel_937A738C_87B2_AC78_41D7_9210394F311A.url = media/zoomImage_35AB3883_136F_7DAF_41A8_8B6F24532DA1_ru_0_1.jpg
+imlevel_937A038C_87B2_AC78_41DF_201396FC7385.url = media/zoomImage_35AB3883_136F_7DAF_41A8_8B6F24532DA1_ru_0_2.jpg
+imlevel_937A238C_87B2_AC78_41C3_97EDEAFC3905.url = media/zoomImage_35AB3883_136F_7DAF_41A8_8B6F24532DA1_ru_0_3.jpg
+imlevel_937A338C_87B2_AC78_41D6_F9C6F7DB3241.url = media/zoomImage_35AB3883_136F_7DAF_41A8_8B6F24532DA1_ru_0_4.jpg
+imlevel_931AE874_87B2_DCAF_41D7_6618AB1080C8.url = media/zoomImage_38652366_13A0_9369_4177_4802C21EBA10_ru_0_0.jpg
+imlevel_931AD874_87B2_DCAF_419F_C324FB8C7878.url = media/zoomImage_38652366_13A0_9369_4177_4802C21EBA10_ru_0_1.jpg
+imlevel_931A3874_87B2_DCAF_41D8_BE9F1F75E1C4.url = media/zoomImage_38652366_13A0_9369_4177_4802C21EBA10_ru_0_2.jpg
+imlevel_931A1874_87B2_DCAF_41CA_125CC36C0511.url = media/zoomImage_38652366_13A0_9369_4177_4802C21EBA10_ru_0_3.jpg
+imlevel_9376B233_87B2_ACA9_41A3_FD0A33EF7782.url = media/zoomImage_386990DD_13A3_8D5B_41AB_BD214B05C96A_ru_0_0.jpg
+imlevel_93764233_87B2_ACA8_419D_0C13BF8154D5.url = media/zoomImage_386990DD_13A3_8D5B_41AB_BD214B05C96A_ru_0_1.jpg
+imlevel_93766233_87B2_ACA8_41DF_F36D1F9FB3AB.url = media/zoomImage_386990DD_13A3_8D5B_41AB_BD214B05C96A_ru_0_2.jpg
+imlevel_93767233_87B2_ACA8_41DA_432CA40593BB.url = media/zoomImage_386990DD_13A3_8D5B_41AB_BD214B05C96A_ru_0_3.jpg
+imlevel_936EEF69_87B2_D4B9_41B3_CAD13C3200C1.url = media/zoomImage_3870F6EC_13A0_9579_4183_9EBA4D3FE989_ru_0_0.jpg
+imlevel_936ECF69_87B2_D4B9_41DD_531D8A61A5EE.url = media/zoomImage_3870F6EC_13A0_9579_4183_9EBA4D3FE989_ru_0_1.jpg
+imlevel_936E3F69_87B2_D4B9_41DD_DE7513941C21.url = media/zoomImage_3870F6EC_13A0_9579_4183_9EBA4D3FE989_ru_0_2.jpg
+imlevel_936E2F69_87B2_D4B9_41CA_F1E4C1D7C3B2.url = media/zoomImage_3870F6EC_13A0_9579_4183_9EBA4D3FE989_ru_0_3.jpg
+imlevel_9366BCA3_87B2_D5A8_41DB_79E63B2778E8.url = media/zoomImage_387DEBF8_13A1_7359_4195_1DAEADD9D58A_ru_0_0.jpg
+imlevel_9366ACA3_87B2_D5A8_41D1_B7A8CC9A999A.url = media/zoomImage_387DEBF8_13A1_7359_4195_1DAEADD9D58A_ru_0_1.jpg
+imlevel_93668CA4_87B2_D5A8_41CD_3D3C4CA9F9B7.url = media/zoomImage_387DEBF8_13A1_7359_4195_1DAEADD9D58A_ru_0_2.jpg
+imlevel_9366DCA4_87B2_D5A8_41B8_4E9D83B8E3D8.url = media/zoomImage_387DEBF8_13A1_7359_4195_1DAEADD9D58A_ru_0_3.jpg
+imlevel_91A1900F_87B2_EC79_41CF_FE7AAB434A5D.url = media/zoomImage_38B205BA_1361_97D8_41B0_497EAC5BBA07_ru_0_0.jpg
+imlevel_91A1F010_87B2_EC67_41E0_EFD228D5AB4E.url = media/zoomImage_38B205BA_1361_97D8_41B0_497EAC5BBA07_ru_0_1.jpg
+imlevel_91A1E010_87B2_EC67_41C9_E53795C550A0.url = media/zoomImage_38B205BA_1361_97D8_41B0_497EAC5BBA07_ru_0_2.jpg
+imlevel_91A1D010_87B2_EC67_41D3_6840D6DEC53B.url = media/zoomImage_38B205BA_1361_97D8_41B0_497EAC5BBA07_ru_0_3.jpg
+imlevel_934DF138_87B2_ACA7_41D5_24E7D649A5F5.url = media/zoomImage_3967E315_1360_8CAB_41B2_2F9D1A6C6A49_ru_0_0.jpg
+imlevel_934DE138_87B2_ACA7_41BD_FFA2FF863460.url = media/zoomImage_3967E315_1360_8CAB_41B2_2F9D1A6C6A49_ru_0_1.jpg
+imlevel_934D9138_87B2_ACA7_41BC_BD036291EC74.url = media/zoomImage_3967E315_1360_8CAB_41B2_2F9D1A6C6A49_ru_0_2.jpg
+imlevel_934DB138_87B2_ACA7_41D6_ECE45B7BCD92.url = media/zoomImage_3967E315_1360_8CAB_41B2_2F9D1A6C6A49_ru_0_3.jpg
+imlevel_934DA138_87B2_ACA7_41DE_91C47AFC36A6.url = media/zoomImage_3967E315_1360_8CAB_41B2_2F9D1A6C6A49_ru_0_4.jpg
+imlevel_93463C81_87B2_B469_41C1_09ABA624DB69.url = media/zoomImage_3AE96FFB_1367_735F_41B2_358BCE67923F_ru_0_0.jpg
+imlevel_9347CC81_87B2_B468_41CC_AF8B75D7B0CD.url = media/zoomImage_3AE96FFB_1367_735F_41B2_358BCE67923F_ru_0_1.jpg
+imlevel_9347DC81_87B2_B468_41B8_DB3198AD1FED.url = media/zoomImage_3AE96FFB_1367_735F_41B2_358BCE67923F_ru_0_2.jpg
+imlevel_9347FC81_87B2_B468_41D7_B0F07E47F309.url = media/zoomImage_3AE96FFB_1367_735F_41B2_358BCE67923F_ru_0_3.jpg
+imlevel_93479C81_87B2_B468_41C8_911D3F77E525.url = media/zoomImage_3AE96FFB_1367_735F_41B2_358BCE67923F_ru_0_4.jpg
+imlevel_933B12F8_87B2_ED98_41DA_BADF3095F9E9.url = media/zoomImage_3F393C29_1360_94FB_41B1_D284A64BA540_ru_0_0.jpg
+imlevel_933B72F8_87B2_ED98_41DE_8E88BEEA9A75.url = media/zoomImage_3F393C29_1360_94FB_41B1_D284A64BA540_ru_0_1.jpg
+imlevel_933B62F8_87B2_ED98_41BE_A089E5A1C61D.url = media/zoomImage_3F393C29_1360_94FB_41B1_D284A64BA540_ru_0_2.jpg
+imlevel_933B52F8_87B2_ED98_41D9_752276DF98D1.url = media/zoomImage_3F393C29_1360_94FB_41B1_D284A64BA540_ru_0_3.jpg
+imlevel_930FF470_87B2_D4A7_41CE_AB35A20461CE.url = media/zoomImage_3F415C81_135F_B5A8_4189_5A72D82AA333_ru_0_0.jpg
+imlevel_930FE470_87B2_D4A7_41BB_C9E6007C86C7.url = media/zoomImage_3F415C81_135F_B5A8_4189_5A72D82AA333_ru_0_1.jpg
+imlevel_930FD470_87B2_D4A7_41CB_3C4E1EFBEA4B.url = media/zoomImage_3F415C81_135F_B5A8_4189_5A72D82AA333_ru_0_2.jpg
+imlevel_930F3470_87B2_D4A7_41BB_E844F281B7F0.url = media/zoomImage_3F415C81_135F_B5A8_4189_5A72D82AA333_ru_0_3.jpg
+imlevel_931245DB_87B2_D798_41C9_9B8A8F94B296.url = media/zoomImage_3F46CA00_135F_BCA9_41B0_4FA797ACB8F4_ru_0_0.jpg
+imlevel_9313B5DB_87B2_D798_41BA_5B520239546F.url = media/zoomImage_3F46CA00_135F_BCA9_41B0_4FA797ACB8F4_ru_0_1.jpg
+imlevel_931395DB_87B2_D798_41DA_B7B0D1D6B9E8.url = media/zoomImage_3F46CA00_135F_BCA9_41B0_4FA797ACB8F4_ru_0_2.jpg
+imlevel_931385DB_87B2_D798_41DC_BBBE2D086CD2.url = media/zoomImage_3F46CA00_135F_BCA9_41B0_4FA797ACB8F4_ru_0_3.jpg
+imlevel_91ACE147_87B2_ECE8_41D4_CF128E56533D.url = media/zoomImage_3F4BC709_1360_F4BB_41AF_7CF6ACA2E09A_ru_0_0.jpg
+imlevel_91ACC147_87B2_ECE8_41DE_B0477F099794.url = media/zoomImage_3F4BC709_1360_F4BB_41AF_7CF6ACA2E09A_ru_0_1.jpg
+imlevel_91AC2147_87B2_ECE8_419C_1231BB11F952.url = media/zoomImage_3F4BC709_1360_F4BB_41AF_7CF6ACA2E09A_ru_0_2.jpg
+imlevel_91AC7147_87B2_ECE8_41BF_94DC1E280710.url = media/zoomImage_3F4BC709_1360_F4BB_41AF_7CF6ACA2E09A_ru_0_3.jpg
+imlevel_9353F549_87B2_54F8_41D9_A8897F2B912F.url = media/zoomImage_3F65F6F5_1363_B56B_41AF_773CF97E5781_ru_0_0.jpg
+imlevel_9353E549_87B2_54F8_419D_6A78B89BE116.url = media/zoomImage_3F65F6F5_1363_B56B_41AF_773CF97E5781_ru_0_1.jpg
+imlevel_9353B549_87B2_54F8_41D5_59AE8EC9BB51.url = media/zoomImage_3F65F6F5_1363_B56B_41AF_773CF97E5781_ru_0_2.jpg
+imlevel_93535549_87B2_54F8_419A_190F2560D42A.url = media/zoomImage_3F65F6F5_1363_B56B_41AF_773CF97E5781_ru_0_3.jpg
+imlevel_93536549_87B2_54F8_41D4_F767A6695B8E.url = media/zoomImage_3F65F6F5_1363_B56B_41AF_773CF97E5781_ru_0_4.jpg
+imlevel_9372A0DC_87B2_AD9F_41D5_9FED0B2BB027.url = media/zoomImage_3F8A8966_13A3_BF69_4186_E494CCD72AB7_ru_0_0.jpg
+imlevel_9372B0DC_87B2_AD9F_41C7_85E9E013882B.url = media/zoomImage_3F8A8966_13A3_BF69_4186_E494CCD72AB7_ru_0_1.jpg
+imlevel_937240DC_87B2_AD9F_41AD_5AF257B6911F.url = media/zoomImage_3F8A8966_13A3_BF69_4186_E494CCD72AB7_ru_0_2.jpg
+imlevel_937270DC_87B2_AD9F_41D4_7085E1703534.url = media/zoomImage_3F8A8966_13A3_BF69_4186_E494CCD72AB7_ru_0_3.jpg
+imlevel_936AFE13_87B2_D469_41DD_FE5E39734DD1.url = media/zoomImage_3F9BBFCC_13A0_93B9_4175_B5A8600D040A_ru_0_0.jpg
+imlevel_936AEE13_87B2_D469_41DD_4E387EC1924F.url = media/zoomImage_3F9BBFCC_13A0_93B9_4175_B5A8600D040A_ru_0_1.jpg
+imlevel_936ACE13_87B2_D469_41C4_6D372EB1BD23.url = media/zoomImage_3F9BBFCC_13A0_93B9_4175_B5A8600D040A_ru_0_2.jpg
+imlevel_936A3E13_87B2_D469_41C9_403B07F17016.url = media/zoomImage_3F9BBFCC_13A0_93B9_4175_B5A8600D040A_ru_0_3.jpg
+imlevel_931E89CD_87B2_DFF9_41DD_265F826AEFFB.url = media/zoomImage_3FBD6D60_13A1_9768_41AC_C552D505D088_ru_0_0.jpg
+imlevel_931EF9CD_87B2_DFF9_417D_07C6B03D5346.url = media/zoomImage_3FBD6D60_13A1_9768_41AC_C552D505D088_ru_0_1.jpg
+imlevel_931ED9CD_87B2_DFF9_41DF_6519333437AF.url = media/zoomImage_3FBD6D60_13A1_9768_41AC_C552D505D088_ru_0_2.jpg
+imlevel_931EC9CD_87B2_DFF8_41CA_0B5501B1DF15.url = media/zoomImage_3FBD6D60_13A1_9768_41AC_C552D505D088_ru_0_3.jpg
+imlevel_93161746_87B2_D4EB_41CF_5ACE1976E8EB.url = media/zoomImage_3FC31101_13A0_8CA8_41A3_215CF81EAF2E_ru_0_0.jpg
+imlevel_93167747_87B2_D4E9_41D8_BC2086152C28.url = media/zoomImage_3FC31101_13A0_8CA8_41A3_215CF81EAF2E_ru_0_1.jpg
+imlevel_93166747_87B2_D4E9_41CE_7286800E64E1.url = media/zoomImage_3FC31101_13A0_8CA8_41A3_215CF81EAF2E_ru_0_2.jpg
+imlevel_93165747_87B2_D4E9_41DE_30EF161A090F.url = media/zoomImage_3FC31101_13A0_8CA8_41A3_215CF81EAF2E_ru_0_3.jpg
+
+### Поп-ап изображение
+
+## Скин
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_ru.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_ru.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_ru.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_ru.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_ru.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_ru.png
+
+### Кнопка
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = DEV
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = DEV
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = ИНФО
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = МЕСТО
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = МЕСТОПОЛОЖЕНИЕ
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = ОПИСАНИЕ
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = ПАНОРАМА
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = ПРЕЗЕНТАЦИЯ PDF
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = ПРЕЗЕНТАЦИЯ PDF
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = ФОТО
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = ФОТОАЛЬБОМ
+
+### Многострочный текст
+HTMLText_E40AA419_F8F9_1016_41C7_3CC3FC2EBCD6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'HelveticaNeueCyr';">*Проект не предполагает вырубки деревьев. На презентации они убраны для удобства просмотра рельефа и возможностей расположения объектов.</SPAN></SPAN></DIV></div>
+HTMLText_E40B60BE_F8F8_F00A_41E9_7392E292B16C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'HelveticaNeueCyr';">*Проект пространства для отдыха не предполагает вырубку деревьев, деревья были убраны на картинке для того, чтобы было видно расположение домов и мест общего пользования.</SPAN></SPAN></DIV></div>
+HTMLText_D92258B5_F8E9_1019_41DD_48C3A67D27D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:Tahoma, Geneva, sans-serif;">*Проект не предполагает вырубки деревьев. На презентации они убраны для удобства просмотра рельефа и возможностей расположения объектов.</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Hello World</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">Developer</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9300000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">LAPIN PAUL</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">CG ARTIST</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +7 906 609 99 11</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">standpoint@list.ru</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.LAPIN-LAB.ru</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Hello world </SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.367633302151543vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.37vmin;font-family:'Bebas Neue Bold';">КАДАСТРОВАЯ ИНФОРМАЦИЯ</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.057998129092611vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a3e1;font-size:2.06vmin;font-family:'Bebas Neue Bold';">Участок 38 га</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Кадастровый номер:</U></SPAN><SPAN STYLE="font-size:1.22vmin;"> 27:04:0000000:1263</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Кадастровый квартал: </U></SPAN><SPAN STYLE="font-size:1.22vmin;">Ванинский</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Площадь участка:</U></SPAN><SPAN STYLE="font-size:1.22vmin;"> 380000 м2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Адрес:</U></SPAN><SPAN STYLE="font-size:1.22vmin;"> Хабаровский край,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">Ванинский муниципальный район,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">Северное лесничество,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">Ванинское участковое лесничество,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">квартал №№74 [выделы 1, 2, 3, 4, 5, 6]</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Категория:</U></SPAN><SPAN STYLE="font-size:1.22vmin;"> Земли лесного фонда</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;"><U>Вид разрешенного использования:</U></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">Осуществление рекреационной</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2160898035547236vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.22vmin;">деятельности</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.390000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">УЧАСТОК на полуострове Дюанка</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.390000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">С ВИДОМ НА МОРЕ</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>ИДЕАЛЕН ДЛЯ РАЗВИТИЯ</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3000000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>БИЗНЕСА И ТУРИЗМА:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Готовность к застройке</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">и к подключению электричества,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">газопровода и водоснабжения</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Близость к аэропорту, морскому</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">порту, крупной автомагистрали</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">ж/д сообщению и аэропорту</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> •100% законность: категория</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">и вид разрешенного использования</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">в зоне рекреации, для туризма</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">LAPIN PAUL</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">CG ARTIST</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +7 906 609 9911</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">standpoint@list.ru</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.lapin-lab.ru</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.666666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.67vmin;font-family:'Bebas Neue Bold';">УЧАСТОК на полуострове Дюанка</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.666666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.67vmin;font-family:'Bebas Neue Bold';">С ВИДОМ НА МОРЕ</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.44vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vmin;font-family:'Bebas Neue Bold';"><B>ИДЕАЛЕН ДЛЯ РАЗВИТИЯ</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vmin;font-family:'Bebas Neue Bold';"><B>БИЗНЕСА И ТУРИЗМА:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Готовность к застройке</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">и к подключению электричества,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">газопровода и водоснабжения</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Близость к аэропорту, морскому</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">порту, крупной автомагистрали</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">ж/д сообщению и аэропорту</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> •100% законность: категория</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">и вид разрешенного использования</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">в зоне рекреации, для туризма</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.333333333333336vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Bebas Neue Bold';">КАДАСТРОВАЯ ИНФОРМАЦИЯ</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.111111111111113vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a3e1;font-size:6.11vmin;font-family:'Bebas Neue Bold';">Участок 38 га</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Кадастровый номер:</U></SPAN><SPAN STYLE="font-size:3.61vmin;"> 27:04:0000000:1263</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Кадастровый квартал:</U></SPAN><SPAN STYLE="font-size:3.61vmin;"> Ванинский</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Площадь участка:</U></SPAN><SPAN STYLE="font-size:3.61vmin;"> 380000 м2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Адрес:</U></SPAN><SPAN STYLE="font-size:3.61vmin;"> Хабаровский край,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Ванинский муниципальный район,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Северное лесничество,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Ванинское участковое лесничество,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">квартал №№74 [выделы 1, 2, 3, 4, 5, 6]</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Категория:</U></SPAN><SPAN STYLE="font-size:3.61vmin;"> Земли лесного фонда</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"><U>Вид разрешенного использования:</U></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Осуществление рекреационной</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">деятельности</SPAN></SPAN></DIV></div>
+HTMLText_E825D9F5_F812_0C1A_41EE_A6AA24AC235F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'HelveticaNeueCyr';">lapin-lab.ru</SPAN></SPAN></DIV></div>
+HTMLText_E2E11518_F812_040A_41CE_7217C450C6D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:Tahoma, Geneva, sans-serif;">lapin-lab.ru</SPAN></SPAN></DIV></div>
+
+### Обозначение
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = Галичское Заозерье
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Галичское заозерье
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = ДУАТЛОН
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Дуатлон
+
+### Подсказка
+HTMLText_E825D9F5_F812_0C1A_41EE_A6AA24AC235F.toolTip = https://lapin-lab.ru/
+
+## Тур
+
+### Заголовок
+tour.name = ДУАТЛОН
+
+### Описание
+
+### Политика использования файлов cookie
+CookiesPolicy_F96751AE_E499_DDC4_41BF_A556A80F6FF0.url = https://paullapin.github.io/mangerok/
